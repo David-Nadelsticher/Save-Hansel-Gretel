@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88353899a8ad46baa8e55747c160b845, type: 3}
+  m_Name: CollectablePhaseConfig 1
+  m_EditorClassIdentifier: 
+  phases:
+  - entityName: CollectablePhase-1
+    phaseConfig:
+      resourceSpawnInterval: 2
+      availableResourceData:
+      - resourcePrefab: {fileID: 2487448749769843653, guid: 61a3200c6161817468beabd77ec72d16, type: 3}
+        resourceName: SmallEnergy
+        spawnChance: 0.921
+      - resourcePrefab: {fileID: 705802268675457919, guid: 74b94c37ec4e7dd4ba609c8063dbaf18, type: 3}
+        resourceName: BigEnergy
+        spawnChance: 0.317
+      - resourcePrefab: {fileID: 4312616984912814802, guid: 169295a683f29594ea8ef3746e4d5f82, type: 3}
+        resourceName: SmallHP
+        spawnChance: 0.656
+      - resourcePrefab: {fileID: 9044914257305862645, guid: f0b7a0231ee5cb44e805bda9f2ae0fc6, type: 3}
+        resourceName: BigHP
+        spawnChance: 0.145
+      maxConcurrentResources: 4
+  - entityName: CollectablePhase-2
+    phaseConfig:
+      resourceSpawnInterval: 3
+      availableResourceData:
+      - resourcePrefab: {fileID: 2487448749769843653, guid: 61a3200c6161817468beabd77ec72d16, type: 3}
+        resourceName: SmallEnergy
+        spawnChance: 0.648
+      - resourcePrefab: {fileID: 705802268675457919, guid: 74b94c37ec4e7dd4ba609c8063dbaf18, type: 3}
+        resourceName: BigEnergy
+        spawnChance: 0.947
+      - resourcePrefab: {fileID: 4312616984912814802, guid: 169295a683f29594ea8ef3746e4d5f82, type: 3}
+        resourceName: SmallHP
+        spawnChance: 0.211
+      - resourcePrefab: {fileID: 9044914257305862645, guid: f0b7a0231ee5cb44e805bda9f2ae0fc6, type: 3}
+        resourceName: BigHP
+        spawnChance: 0.511
+      maxConcurrentResources: 4
+  - entityName: CollectablePhase-3
+    phaseConfig:
+      resourceSpawnInterval: 1
+      availableResourceData:
+      - resourcePrefab: {fileID: 2487448749769843653, guid: 61a3200c6161817468beabd77ec72d16, type: 3}
+        resourceName: SmallEnergy
+        spawnChance: 0.322
+      - resourcePrefab: {fileID: 705802268675457919, guid: 74b94c37ec4e7dd4ba609c8063dbaf18, type: 3}
+        resourceName: BigEnergy
+        spawnChance: 0.463
+      - resourcePrefab: {fileID: 4312616984912814802, guid: 169295a683f29594ea8ef3746e4d5f82, type: 3}
+        resourceName: SmallHP
+        spawnChance: 0.718
+      - resourcePrefab: {fileID: 9044914257305862645, guid: f0b7a0231ee5cb44e805bda9f2ae0fc6, type: 3}
+        resourceName: BigHP
+        spawnChance: 0.912
+      maxConcurrentResources: 5

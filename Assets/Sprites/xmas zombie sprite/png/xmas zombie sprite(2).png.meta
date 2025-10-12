@@ -1,0 +1,1470 @@
+fileFormatVersion: 2
+guid: 36af445dd4188c44a9088295c7f9dcb7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3409937903019817635
+    second: xmas zombie sprite(2)_0
+  - first:
+      213: -1490838970050421230
+    second: xmas zombie sprite(2)_1
+  - first:
+      213: 2461830539286587284
+    second: xmas zombie sprite(2)_2
+  - first:
+      213: 5612060668056480116
+    second: xmas zombie sprite(2)_3
+  - first:
+      213: 9000816281701653634
+    second: xmas zombie sprite(2)_4
+  - first:
+      213: -6031305906479242431
+    second: xmas zombie sprite(2)_5
+  - first:
+      213: -92150658243197478
+    second: xmas zombie sprite(2)_6
+  - first:
+      213: 8220031218912812079
+    second: xmas zombie sprite(2)_7
+  - first:
+      213: 4549590616525118200
+    second: xmas zombie sprite(2)_8
+  - first:
+      213: 2430475043594018522
+    second: xmas zombie sprite(2)_9
+  - first:
+      213: 8085420777965408535
+    second: xmas zombie sprite(2)_10
+  - first:
+      213: 71440542471399397
+    second: xmas zombie sprite(2)_11
+  - first:
+      213: -8190997585169461859
+    second: xmas zombie sprite(2)_12
+  - first:
+      213: 7250291595652345948
+    second: xmas zombie sprite(2)_13
+  - first:
+      213: -7669245870068777370
+    second: xmas zombie sprite(2)_14
+  - first:
+      213: -6564928494328049780
+    second: xmas zombie sprite(2)_15
+  - first:
+      213: -987509047816826160
+    second: xmas zombie sprite(2)_16
+  - first:
+      213: -5069653486424479343
+    second: xmas zombie sprite(2)_17
+  - first:
+      213: -5742383577097984758
+    second: xmas zombie sprite(2)_18
+  - first:
+      213: -6633858185648204155
+    second: xmas zombie sprite(2)_19
+  - first:
+      213: 4121559188797327664
+    second: xmas zombie sprite(2)_20
+  - first:
+      213: -2143203518800202358
+    second: xmas zombie sprite(2)_21
+  - first:
+      213: 4464556817566615004
+    second: xmas zombie sprite(2)_22
+  - first:
+      213: -712171497254795438
+    second: xmas zombie sprite(2)_23
+  - first:
+      213: 1945199169438749718
+    second: xmas zombie sprite(2)_24
+  - first:
+      213: -7222237604235460205
+    second: xmas zombie sprite(2)_25
+  - first:
+      213: -8580836392663781406
+    second: xmas zombie sprite(2)_26
+  - first:
+      213: -2491511256022124283
+    second: xmas zombie sprite(2)_27
+  - first:
+      213: -4971340050787876787
+    second: xmas zombie sprite(2)_28
+  - first:
+      213: 5388994058196995059
+    second: xmas zombie sprite(2)_29
+  - first:
+      213: 4213566035996163868
+    second: xmas zombie sprite(2)_30
+  - first:
+      213: -468775718101233614
+    second: xmas zombie sprite(2)_31
+  - first:
+      213: 4365381380207377615
+    second: xmas zombie sprite(2)_32
+  - first:
+      213: 2836698555990311988
+    second: xmas zombie sprite(2)_33
+  - first:
+      213: 7575787353835315067
+    second: xmas zombie sprite(2)_34
+  - first:
+      213: -5934616919651902713
+    second: xmas zombie sprite(2)_35
+  - first:
+      213: 554880092148484977
+    second: xmas zombie sprite(2)_36
+  - first:
+      213: -1375520761676685966
+    second: xmas zombie sprite(2)_37
+  - first:
+      213: 6223088010210945287
+    second: xmas zombie sprite(2)_38
+  - first:
+      213: 8516189481780786389
+    second: xmas zombie sprite(2)_39
+  - first:
+      213: 9171050993486813469
+    second: xmas zombie sprite(2)_40
+  - first:
+      213: 1773168395209697102
+    second: xmas zombie sprite(2)_41
+  - first:
+      213: -912603411194413079
+    second: xmas zombie sprite(2)_42
+  - first:
+      213: -1027586022614593953
+    second: xmas zombie sprite(2)_43
+  - first:
+      213: 2950991431796926620
+    second: xmas zombie sprite(2)_44
+  - first:
+      213: 8121858419521954210
+    second: xmas zombie sprite(2)_45
+  - first:
+      213: 1993214024704377563
+    second: xmas zombie sprite(2)_46
+  - first:
+      213: 2932343994737251732
+    second: xmas zombie sprite(2)_47
+  - first:
+      213: 5937283849603304304
+    second: xmas zombie sprite(2)_48
+  - first:
+      213: -8507696423431646387
+    second: xmas zombie sprite(2)_49
+  - first:
+      213: -8703513340884621277
+    second: xmas zombie sprite(2)_50
+  - first:
+      213: -3412487001851777019
+    second: xmas zombie sprite(2)_51
+  - first:
+      213: -3923284676602413657
+    second: xmas zombie sprite(2)_52
+  - first:
+      213: -1852674508543188457
+    second: xmas zombie sprite(2)_53
+  - first:
+      213: 1059733877026621389
+    second: xmas zombie sprite(2)_54
+  - first:
+      213: -5437697490834156632
+    second: xmas zombie sprite(2)_55
+  - first:
+      213: -9166228843511561318
+    second: xmas zombie sprite(2)_56
+  - first:
+      213: 4244585352237658891
+    second: xmas zombie sprite(2)_57
+  - first:
+      213: -3411464497661840528
+    second: xmas zombie sprite(2)_58
+  - first:
+      213: -629717461883829800
+    second: xmas zombie sprite(2)_59
+  - first:
+      213: 6736249912231881187
+    second: xmas zombie sprite(2)_60
+  - first:
+      213: 7549783019328757261
+    second: xmas zombie sprite(2)_61
+  - first:
+      213: -1022111894973305674
+    second: xmas zombie sprite(2)_62
+  - first:
+      213: 5979469924629767438
+    second: xmas zombie sprite(2)_63
+  - first:
+      213: 5605610351033227684
+    second: xmas zombie sprite(2)_64
+  - first:
+      213: 6841532232262083078
+    second: xmas zombie sprite(2)_65
+  - first:
+      213: 425197567943475073
+    second: xmas zombie sprite(2)_66
+  - first:
+      213: 8281610925641417666
+    second: xmas zombie sprite(2)_67
+  - first:
+      213: 4686573140428935216
+    second: xmas zombie sprite(2)_68
+  - first:
+      213: -3290253582447692401
+    second: xmas zombie sprite(2)_69
+  - first:
+      213: 2182693538431246505
+    second: xmas zombie sprite(2)_70
+  - first:
+      213: -706056386391539581
+    second: xmas zombie sprite(2)_71
+  - first:
+      213: -7811381336784625617
+    second: xmas zombie sprite(2)_72
+  - first:
+      213: -1448712885696781360
+    second: xmas zombie sprite(2)_73
+  - first:
+      213: -3302734313598082946
+    second: xmas zombie sprite(2)_74
+  - first:
+      213: -769265250781251895
+    second: xmas zombie sprite(2)_75
+  - first:
+      213: -5496591939026849930
+    second: xmas zombie sprite(2)_76
+  - first:
+      213: -390623194921802187
+    second: xmas zombie sprite(2)_77
+  - first:
+      213: 5236727780002513640
+    second: xmas zombie sprite(2)_78
+  - first:
+      213: -1748856558159500194
+    second: xmas zombie sprite(2)_79
+  - first:
+      213: -2868672605955884841
+    second: xmas zombie sprite(2)_80
+  - first:
+      213: 1317579547175503364
+    second: xmas zombie sprite(2)_81
+  - first:
+      213: 2788975843623863090
+    second: xmas zombie sprite(2)_82
+  - first:
+      213: -1970186050897839753
+    second: xmas zombie sprite(2)_83
+  - first:
+      213: -8822486629447633422
+    second: xmas zombie sprite(2)_84
+  - first:
+      213: -3672404998112010510
+    second: xmas zombie sprite(2)_85
+  - first:
+      213: 1830222247766024359
+    second: xmas zombie sprite(2)_86
+  - first:
+      213: -6771269806501609602
+    second: xmas zombie sprite(2)_87
+  - first:
+      213: 2064637490553640123
+    second: xmas zombie sprite(2)_88
+  - first:
+      213: 6653953595152234547
+    second: xmas zombie sprite(2)_89
+  - first:
+      213: -74018335712515691
+    second: xmas zombie sprite(2)_90
+  - first:
+      213: -4030488307462238331
+    second: xmas zombie sprite(2)_91
+  - first:
+      213: -9176898277956460808
+    second: xmas zombie sprite(2)_92
+  - first:
+      213: 966262665962521971
+    second: xmas zombie sprite(2)_93
+  - first:
+      213: -6945440049569571022
+    second: xmas zombie sprite(2)_94
+  - first:
+      213: 2147261146824449018
+    second: xmas zombie sprite(2)_95
+  - first:
+      213: 1238833895823175323
+    second: xmas zombie sprite(2)_96
+  - first:
+      213: 7749639424209926305
+    second: xmas zombie sprite(2)_97
+  - first:
+      213: 2956794979716595986
+    second: xmas zombie sprite(2)_98
+  - first:
+      213: -6702944791561990358
+    second: xmas zombie sprite(2)_99
+  - first:
+      213: 7522630663566628097
+    second: xmas zombie sprite(2)_100
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_0
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2364
+        width: 212
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d550d583b877da0d0800000000000000
+      internalID: -3409937903019817635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_1
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 2371
+        width: 213
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21ed5d40bd97f4be0800000000000000
+      internalID: -1490838970050421230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 2359
+        width: 218
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497a26705dd2a2220800000000000000
+      internalID: 2461830539286587284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_3
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 2370
+        width: 214
+        height: 479
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479a271917b02ed40800000000000000
+      internalID: 5612060668056480116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_4
+      rect:
+        serializedVersion: 2
+        x: 1087
+        y: 2359
+        width: 211
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c116748b259ec70800000000000000
+      internalID: 9000816281701653634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_5
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 2359
+        width: 214
+        height: 487
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143e698bb3f7c4ca0800000000000000
+      internalID: -6031305906479242431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_6
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 2364
+        width: 220
+        height: 484
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5889de67d98bef0800000000000000
+      internalID: -92150658243197478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_7
+      rect:
+        serializedVersion: 2
+        x: 1830
+        y: 2360
+        width: 214
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2c5bed87da631270800000000000000
+      internalID: 8220031218912812079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_8
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 2364
+        width: 212
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa1e6b9f84632f30800000000000000
+      internalID: 4549590616525118200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_26
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1866
+        width: 212
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2efe78b93cebae880800000000000000
+      internalID: -8580836392663781406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_27
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1865
+        width: 211
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509f9e696bf5c6dd0800000000000000
+      internalID: -2491511256022124283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_28
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1866
+        width: 212
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40cd172090420bb0800000000000000
+      internalID: -4971340050787876787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_29
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 1866
+        width: 212
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbc5873b8d89ca40800000000000000
+      internalID: 5388994058196995059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_30
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 1866
+        width: 212
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fb33d3cf7997a30800000000000000
+      internalID: 4213566035996163868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_31
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 1866
+        width: 212
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2305f33d7f29e79f0800000000000000
+      internalID: -468775718101233614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_32
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 1866
+        width: 211
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc7d5c8c33f49c30800000000000000
+      internalID: 4365381380207377615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_33
+      rect:
+        serializedVersion: 2
+        x: 1822
+        y: 1866
+        width: 212
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4348aa4ae4afd5720800000000000000
+      internalID: 2836698555990311988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_34
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 1866
+        width: 212
+        height: 485
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f1047c57a922960800000000000000
+      internalID: 7575787353835315067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_50
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1353
+        width: 255
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328e2bacab8e63780800000000000000
+      internalID: -8703513340884621277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_51
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1353
+        width: 251
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500bcf5e62964a0d0800000000000000
+      internalID: -3412487001851777019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_52
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1353
+        width: 267
+        height: 492
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad31628f51bd89c0800000000000000
+      internalID: -3923284676602413657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_53
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 1357
+        width: 265
+        height: 500
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712acd1b95af946e0800000000000000
+      internalID: -1852674508543188457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_54
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 1351
+        width: 241
+        height: 508
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc78e90b85ee4be00800000000000000
+      internalID: 1059733877026621389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_55
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 1350
+        width: 242
+        height: 515
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a31cc631fa6984b0800000000000000
+      internalID: -5437697490834156632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_56
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1332
+        width: 244
+        height: 523
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93cd8c7e630bc080800000000000000
+      internalID: -9166228843511561318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_57
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 1351
+        width: 225
+        height: 507
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b03b3fa93ebc7ea30800000000000000
+      internalID: 4244585352237658891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_58
+      rect:
+        serializedVersion: 2
+        x: 2452
+        y: 1353
+        width: 213
+        height: 489
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07372053d1b08a0d0800000000000000
+      internalID: -3411464497661840528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_66
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 841
+        width: 219
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f71ac6fea96e500800000000000000
+      internalID: 425197567943475073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_67
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 860
+        width: 251
+        height: 486
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3c9de42413ee270800000000000000
+      internalID: 8281610925641417666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_68
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 867
+        width: 277
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0305721d07d0a0140800000000000000
+      internalID: 4686573140428935216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_70
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 840
+        width: 378
+        height: 449
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a02cb3753c7a4e10800000000000000
+      internalID: 2182693538431246505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_71
+      rect:
+        serializedVersion: 2
+        x: 1395
+        y: 840
+        width: 480
+        height: 373
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3808cb915759336f0800000000000000
+      internalID: -706056386391539581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_73
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 846
+        width: 538
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d3238a5e4325ebe0800000000000000
+      internalID: -1448712885696781360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_74
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 815
+        width: 569
+        height: 211
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e702e72f3a45a22d0800000000000000
+      internalID: -3302734313598082946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 547
+        width: 570
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40647b80e9bf84210800000000000000
+      internalID: 1317579547175503364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_83
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 553
+        width: 560
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 779fdc6a93e78a4e0800000000000000
+      internalID: -1970186050897839753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_84
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 6
+        width: 219
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f5f320772b309580800000000000000
+      internalID: -8822486629447633422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_85
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 4
+        width: 251
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe1a288c1ff80dc0800000000000000
+      internalID: -3672404998112010510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_86
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2
+        width: 314
+        height: 504
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a06c1aff61466910800000000000000
+      internalID: 1830222247766024359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_87
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 379
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7fb4299cfd9702a0800000000000000
+      internalID: -6771269806501609602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_89
+      rect:
+        serializedVersion: 2
+        x: 1403
+        y: 0
+        width: 346
+        height: 490
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3387bf66a87975c50800000000000000
+      internalID: 6653953595152234547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_90
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 0
+        width: 341
+        height: 494
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5996df047b809fef0800000000000000
+      internalID: -74018335712515691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_91
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 2
+        width: 218
+        height: 493
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58f09522d34d018c0800000000000000
+      internalID: -4030488307462238331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_92
+      rect:
+        serializedVersion: 2
+        x: 2490
+        y: 22
+        width: 218
+        height: 498
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fed28233ab15a080800000000000000
+      internalID: -9176898277956460808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: xmas zombie sprite(2)_93
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 6
+        width: 219
+        height: 502
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3750b6476cad86d00800000000000000
+      internalID: 966262665962521971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 537d0b720f4d10c4eab1ae65d31b7bbb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      xmas zombie sprite(2)_0: -3409937903019817635
+      xmas zombie sprite(2)_1: -1490838970050421230
+      xmas zombie sprite(2)_2: 2461830539286587284
+      xmas zombie sprite(2)_26: -8580836392663781406
+      xmas zombie sprite(2)_27: -2491511256022124283
+      xmas zombie sprite(2)_28: -4971340050787876787
+      xmas zombie sprite(2)_29: 5388994058196995059
+      xmas zombie sprite(2)_3: 5612060668056480116
+      xmas zombie sprite(2)_30: 4213566035996163868
+      xmas zombie sprite(2)_31: -468775718101233614
+      xmas zombie sprite(2)_32: 4365381380207377615
+      xmas zombie sprite(2)_33: 2836698555990311988
+      xmas zombie sprite(2)_34: 7575787353835315067
+      xmas zombie sprite(2)_4: 9000816281701653634
+      xmas zombie sprite(2)_5: -6031305906479242431
+      xmas zombie sprite(2)_50: -8703513340884621277
+      xmas zombie sprite(2)_51: -3412487001851777019
+      xmas zombie sprite(2)_52: -3923284676602413657
+      xmas zombie sprite(2)_53: -1852674508543188457
+      xmas zombie sprite(2)_54: 1059733877026621389
+      xmas zombie sprite(2)_55: -5437697490834156632
+      xmas zombie sprite(2)_56: -9166228843511561318
+      xmas zombie sprite(2)_57: 4244585352237658891
+      xmas zombie sprite(2)_58: -3411464497661840528
+      xmas zombie sprite(2)_6: -92150658243197478
+      xmas zombie sprite(2)_66: 425197567943475073
+      xmas zombie sprite(2)_67: 8281610925641417666
+      xmas zombie sprite(2)_68: 4686573140428935216
+      xmas zombie sprite(2)_7: 8220031218912812079
+      xmas zombie sprite(2)_70: 2182693538431246505
+      xmas zombie sprite(2)_71: -706056386391539581
+      xmas zombie sprite(2)_73: -1448712885696781360
+      xmas zombie sprite(2)_74: -3302734313598082946
+      xmas zombie sprite(2)_76: -5496591939026849930
+      xmas zombie sprite(2)_78: 5236727780002513640
+      xmas zombie sprite(2)_8: 4549590616525118200
+      xmas zombie sprite(2)_81: 1317579547175503364
+      xmas zombie sprite(2)_83: -1970186050897839753
+      xmas zombie sprite(2)_84: -8822486629447633422
+      xmas zombie sprite(2)_85: -3672404998112010510
+      xmas zombie sprite(2)_86: 1830222247766024359
+      xmas zombie sprite(2)_87: -6771269806501609602
+      xmas zombie sprite(2)_89: 6653953595152234547
+      xmas zombie sprite(2)_90: -74018335712515691
+      xmas zombie sprite(2)_91: -4030488307462238331
+      xmas zombie sprite(2)_92: -9176898277956460808
+      xmas zombie sprite(2)_93: 966262665962521971
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

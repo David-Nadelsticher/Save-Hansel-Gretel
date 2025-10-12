@@ -1,0 +1,68 @@
+﻿@startuml
+
+' Enum for collectable effect types
+enum CollectableType {
+    Energy
+    Life
+    SpecialAttack
+}
+
+' Abstract collectable effect
+abstract class CollectableEffect {
+    +ApplyReward(player: Player): void
+    +Type: CollectableType
+}
+
+' Concrete collectables that provide different types of benefits
+class LifeCollectable {
+    +ApplyReward(player: Player): void
+    -amount: int
+}
+
+class EnergyCollectable {
+    +ApplyReward(player: Player): void
+    -amount: int
+}
+
+class SpecialAttackCollectable {
+    +ApplyReward(player: Player): void
+    -attackType: AttackType
+}
+
+CollectableEffect <|-- LifeCollectable
+CollectableEffect <|-- EnergyCollectable
+CollectableEffect <|-- SpecialAttackCollectable
+
+' The object that exists in the world and is collected
+class CollectableObject {
+    -effect: CollectableEffect
+    +OnCollect(player: Player): void
+}
+
+CollectableObject --> CollectableEffect : uses
+CollectableObject --> Player : affects
+
+' Attack-related types (from existing diagram)
+enum AttackType {
+    Normal
+    Special
+}
+
+class Player {
+    +AddEnergy(amount: int): void
+    +AddLife(amount: int): void
+    +SetSpecialAttack(type: AttackType): void
+}
+
+Player --> AttackHandler : uses
+
+' Random spawner of collectables
+class CollectableSpawner {
+    -availableCollectables: List<CollectableObject>
+    -spawnInterval: float
+    +SpawnRandom(): void
+}
+
+CollectableSpawner --> CollectableObject
+
+@enduml

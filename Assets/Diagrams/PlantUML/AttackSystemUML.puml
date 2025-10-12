@@ -1,0 +1,69 @@
+﻿@startuml
+' Represents data for an individual attack, stored in a ScriptableObject
+class AttackData {
+    +AttackName: string
+    +Damage: int
+    +Energy: int
+    +AnimationClip: AnimationClip
+    +Effect: GameObject
+}
+
+' Abstract base class for all attacks
+abstract class Attack {
+    -data: AttackData
+    +Data: AttackData
+    +Execute(): void
+}
+
+' Concrete attack types
+class NormalAttack {
+    +Execute(): void
+}
+class SpecialAttack {
+    +Execute(): void
+}
+
+Attack <|-- NormalAttack
+Attack <|-- SpecialAttack
+Attack --> AttackData
+
+' Attack type enum
+enum AttackType {
+    Normal
+    Special
+}
+
+' Entry mapping attack type to data
+class AttackEntry {
+    +type: AttackType
+    +data: AttackData
+}
+
+' ScriptableObject holding all attack entries
+class AttackDatabaseSO {
+    -attackList: List<AttackEntry>
+    -attackDictionary: Dictionary<AttackType, AttackData>
+    +GetAttackData(type: AttackType): AttackData
+    +GetAttack(type: AttackType): Attack
+}
+
+AttackDatabaseSO --> AttackEntry : contains
+AttackDatabaseSO --> AttackData : stores
+AttackDatabaseSO --> Attack : returns
+AttackEntry --> AttackType
+AttackEntry --> AttackData
+
+' Central handler that performs attacks
+class AttackHandler {
+    -normalAttack: Attack
+    -currentSpecialAttack: Attack
+    -provider: AttackDatabaseSO
+    +PerformNormalAttack(): void
+    +PerformSpecialAttack(currentEnergy: int): void
+    +SetSpecialAttack(type: AttackType): void
+}
+
+AttackHandler --> AttackDatabaseSO
+AttackHandler --> Attack
+
+@enduml

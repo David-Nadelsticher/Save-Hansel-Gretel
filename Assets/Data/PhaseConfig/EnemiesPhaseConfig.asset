@@ -1,0 +1,99 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 88353899a8ad46baa8e55747c160b845, type: 3}
+  m_Name: EnemiesPhaseConfig
+  m_EditorClassIdentifier: 
+  phases:
+  - entityName: EnemyPhase-1
+    phaseConfig:
+      resourceSpawnInterval: 1.5
+      availableResourceData:
+      - resourcePrefab: {fileID: 132210755815300521, guid: 5e2b70819822fcf41b7ce73a064167a8, type: 3}
+        resourceName: Chaser-1
+        spawnChance: 0.9
+      - resourcePrefab: {fileID: 1499449197902671490, guid: d48cc72ed647ff0499a798503af9b04b, type: 3}
+        resourceName: Shooter-1
+        spawnChance: 0.5
+      - resourcePrefab: {fileID: 1499449197902671490, guid: 59755aa1a6d57b0418a68cf8ee40079d, type: 3}
+        resourceName: Shooter-2
+        spawnChance: 0.289
+      maxConcurrentResources: 10
+  - entityName: EnemyPhase-2
+    phaseConfig:
+      resourceSpawnInterval: 1
+      availableResourceData:
+      - resourcePrefab: {fileID: 1499449197902671490, guid: d48cc72ed647ff0499a798503af9b04b, type: 3}
+        resourceName: Shooter-1
+        spawnChance: 0.9
+      - resourcePrefab: {fileID: 132210755815300521, guid: 5e2b70819822fcf41b7ce73a064167a8, type: 3}
+        resourceName: Chaser-1
+        spawnChance: 0.5
+      - resourcePrefab: {fileID: 1499449197902671490, guid: 59755aa1a6d57b0418a68cf8ee40079d, type: 3}
+        resourceName: Shooter-2
+        spawnChance: 0.289
+      maxConcurrentResources: 12
+  - entityName: EnemyPhase-3
+    phaseConfig:
+      resourceSpawnInterval: 1
+      availableResourceData:
+      - resourcePrefab: {fileID: 1499449197902671490, guid: 59755aa1a6d57b0418a68cf8ee40079d, type: 3}
+        resourceName: Shooter-2
+        spawnChance: 0.9
+      - resourcePrefab: {fileID: 132210755815300521, guid: 5e2b70819822fcf41b7ce73a064167a8, type: 3}
+        resourceName: Chaser-1
+        spawnChance: 0.5
+      - resourcePrefab: {fileID: 1499449197902671490, guid: d48cc72ed647ff0499a798503af9b04b, type: 3}
+        resourceName: Shooter-1
+        spawnChance: 0.289
+      maxConcurrentResources: 15
+  - entityName: BossPhase-1
+    phaseConfig:
+      resourceSpawnInterval: 1
+      availableResourceData:
+      - resourcePrefab: {fileID: 1499449197902671490, guid: d48cc72ed647ff0499a798503af9b04b, type: 3}
+        resourceName: Shooter-1
+        spawnChance: 0.9
+      - resourcePrefab: {fileID: 1499449197902671490, guid: d48cc72ed647ff0499a798503af9b04b, type: 3}
+        resourceName: Shooter-1
+        spawnChance: 0.3
+      - resourcePrefab: {fileID: 132210755815300521, guid: 5e2b70819822fcf41b7ce73a064167a8, type: 3}
+        resourceName: Chaser-1
+        spawnChance: 0.1
+      maxConcurrentResources: 3
+  - entityName: BossPhase-2
+    phaseConfig:
+      resourceSpawnInterval: 0.5
+      availableResourceData:
+      - resourcePrefab: {fileID: 1499449197902671490, guid: d48cc72ed647ff0499a798503af9b04b, type: 3}
+        resourceName: Shooter-1
+        spawnChance: 0.9
+      - resourcePrefab: {fileID: 132210755815300521, guid: 5e2b70819822fcf41b7ce73a064167a8, type: 3}
+        resourceName: Chaser-1
+        spawnChance: 0.6
+      - resourcePrefab: {fileID: 1499449197902671490, guid: 59755aa1a6d57b0418a68cf8ee40079d, type: 3}
+        resourceName: Shooter-2
+        spawnChance: 0.289
+      maxConcurrentResources: 5
+  - entityName: BossPhase-3
+    phaseConfig:
+      resourceSpawnInterval: 0.2
+      availableResourceData:
+      - resourcePrefab: {fileID: 132210755815300521, guid: 5e2b70819822fcf41b7ce73a064167a8, type: 3}
+        resourceName: Chaser-1
+        spawnChance: 0.9
+      - resourcePrefab: {fileID: 1499449197902671490, guid: d48cc72ed647ff0499a798503af9b04b, type: 3}
+        resourceName: Shooter-1
+        spawnChance: 0.2
+      - resourcePrefab: {fileID: 1499449197902671490, guid: 59755aa1a6d57b0418a68cf8ee40079d, type: 3}
+        resourceName: Shooter-2
+        spawnChance: 0.1
+      maxConcurrentResources: 15

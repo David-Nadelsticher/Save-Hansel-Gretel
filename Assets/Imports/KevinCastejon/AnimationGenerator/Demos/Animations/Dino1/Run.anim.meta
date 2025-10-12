@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ac62c4ec701fed8429f7fc342510c504
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229840
+  packageName: Animation Generator
+  packageVersion: 1.0
+  assetPath: Assets/KevinCastejon/AnimationGenerator/Demos/Animations/Dino1/Run.anim
+  uploadId: 549117

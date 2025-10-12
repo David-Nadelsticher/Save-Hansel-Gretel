@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: 85ace10c19dbcbc40b522213cae454d4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2874219941189762162
+    second: LolyPop (2)_0
+  - first:
+      213: 2166918639751528208
+    second: LolyPop (2)_1
+  - first:
+      213: -2057755390290981111
+    second: LolyPop (2)_2
+  - first:
+      213: -3968280907991862703
+    second: LolyPop (2)_3
+  - first:
+      213: 2495211360425410073
+    second: LolyPop (2)_4
+  - first:
+      213: -537627236547713964
+    second: LolyPop (2)_5
+  - first:
+      213: 7797555405427726890
+    second: LolyPop (2)_6
+  - first:
+      213: -6893763621760182681
+    second: LolyPop (2)_7
+  - first:
+      213: 4511837306780071075
+    second: LolyPop (2)_8
+  - first:
+      213: -1751077705725898990
+    second: LolyPop (2)_9
+  - first:
+      213: -7221832842606806007
+    second: LolyPop (2)_10
+  - first:
+      213: 8855124218159418077
+    second: LolyPop (2)_11
+  - first:
+      213: -8382386558504474380
+    second: LolyPop (2)_12
+  - first:
+      213: -5214096831531336068
+    second: LolyPop (2)_13
+  - first:
+      213: 5296322232598737439
+    second: LolyPop (2)_14
+  - first:
+      213: -7099139049686286794
+    second: LolyPop (2)_15
+  - first:
+      213: 7241519747055834032
+    second: LolyPop (2)_16
+  - first:
+      213: 8808504243176377184
+    second: LolyPop (2)_17
+  - first:
+      213: -4754803592560395278
+    second: LolyPop (2)_18
+  - first:
+      213: -890346065163989305
+    second: LolyPop (2)_19
+  - first:
+      213: 6701948483787984491
+    second: LolyPop (2)_20
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LolyPop (2)_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 320
+        width: 395
+        height: 702
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27cb5f8eec743e720800000000000000
+      internalID: 2874219941189762162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_1
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 824
+        width: 180
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01fff83a501721e10800000000000000
+      internalID: 2166918639751528208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_2
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 440
+        width: 437
+        height: 584
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f8f0fff526173e0800000000000000
+      internalID: -2057755390290981111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 664
+        width: 515
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1523e2ef985dde8c0800000000000000
+      internalID: -3968280907991862703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_4
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 675
+        width: 350
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91efca91385c0a220800000000000000
+      internalID: 2495211360425410073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_5
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 743
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454aff770e6f988f0800000000000000
+      internalID: -537627236547713964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_6
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 679
+        width: 26
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2a52f8f35b763c60800000000000000
+      internalID: 7797555405427726890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_7
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 679
+        width: 46
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766597fb28e6450a0800000000000000
+      internalID: -6893763621760182681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 139
+        width: 246
+        height: 526
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a43bf230244d9e30800000000000000
+      internalID: 4511837306780071075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_9
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 520
+        width: 339
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21f0a10ba1ce2b7e0800000000000000
+      internalID: -1751077705725898990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_10
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 535
+        width: 29
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90cfb25ea45e6cb90800000000000000
+      internalID: -7221832842606806007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 535
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddac9595f88b3ea70800000000000000
+      internalID: 8855124218159418077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_12
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 312
+        width: 177
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8e45a36d7cbab80800000000000000
+      internalID: -8382386558504474380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_13
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 491
+        width: 171
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7eb514ae8ec3a7b0800000000000000
+      internalID: -5214096831531336068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_14
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 64
+        width: 315
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f123d0a6201508940800000000000000
+      internalID: 5296322232598737439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_15
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 360
+        width: 334
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e385ca5aaca7d90800000000000000
+      internalID: -7099139049686286794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_16
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 267
+        width: 154
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b35d3db7db0f7460800000000000000
+      internalID: 7241519747055834032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_17
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 136
+        width: 202
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b8c0190f71e3a70800000000000000
+      internalID: 8808504243176377184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_18
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 0
+        width: 414
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbbfa8135b830eb0800000000000000
+      internalID: -4754803592560395278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_19
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 0
+        width: 176
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cecbb298fad4a3f0800000000000000
+      internalID: -890346065163989305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LolyPop (2)_20
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 0
+        width: 404
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e862733aa120d50800000000000000
+      internalID: 6701948483787984491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

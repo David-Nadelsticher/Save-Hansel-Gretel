@@ -1,0 +1,49 @@
+﻿@startuml
+
+       ' Base class for all enemies
+       abstract class BaseEnemy {
+         +HealthComponent healthComponent
+         +Reset()
+         +TakeDamage(amount)
+         +Die()
+       }
+       
+       ' Smart AI base with FSM
+       abstract class SmartEnemyAIBase {
+         -float detectionRange
+         -float patrolDistance
+         -float attackRange
+         -State currentState
+         +Update()
+         +UpdateState()
+         +ActAccordingToState()
+         +OnStateChange(newState)
+       }
+       
+       ' Chasing enemy implementation
+       class ChaserSmartEnemy {
+         +Attack()
+       }
+       
+       ' Ranged enemy implementation
+       class ShooterSmartEnemy {
+         +Attack()
+       }
+       
+       ' Finite states for the AI
+       enum State {
+         Idle
+         Patrol
+         Chase
+         Attack
+       }
+       
+       ' Inheritance
+       BaseEnemy <|-- SmartEnemyAIBase
+       SmartEnemyAIBase <|-- ChaserSmartEnemy
+       SmartEnemyAIBase <|-- ShooterSmartEnemy
+       
+       ' FSM uses State
+       SmartEnemyAIBase --> State
+       @enduml
+

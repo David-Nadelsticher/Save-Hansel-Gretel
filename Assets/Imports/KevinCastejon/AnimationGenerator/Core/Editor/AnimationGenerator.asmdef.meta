@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 83091bf69f8389543bc78f791959b9f6
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 229840
+  packageName: Animation Generator
+  packageVersion: 1.0
+  assetPath: Assets/KevinCastejon/AnimationGenerator/Core/Editor/AnimationGenerator.asmdef
+  uploadId: 549117

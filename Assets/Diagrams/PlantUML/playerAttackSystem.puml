@@ -1,0 +1,100 @@
+﻿@startuml
+' Define abstract class and its concrete implementations
+abstract class Attack {
+    +Execute(): void
+}
+
+class NormalAttack {
+    +Execute(): void
+}
+
+class SpecialAttack {
+    +Execute(): void
+    +energyCost: int
+}
+
+Attack <|-- NormalAttack
+Attack <|-- SpecialAttack
+
+' Player class that uses polymorphism to perform attacks
+class Player {
+    -currentAttack: Attack
+    -energy: int
+    +SetAttack(attack: Attack): void
+    +PerformAttack(): void
+    +AddEnergy(amount: int): void
+    +GetEnergy(): int
+}
+
+' Association: Player uses Attack
+Player --> Attack : currentAttack
+
+' Player can collect collectible objects
+class CollectibleObject {
+    +energyValue: int
+    +Collect(player: Player): void
+}
+
+CollectibleObject --> Player : affects
+
+' ScriptableObject container for attack definitions
+class AttackDatabase{
+    -attackList: List<AttackEntry>
+    -attackDictionary: Dictionary<AttackType, AttackData>
+    +GetAttackData(type: AttackType): AttackData
+}
+
+class AttackEntry {
+    +type: AttackType
+    +data: AttackData
+}
+
+AttackDatabase --> AttackData : contains
+AttackDatabase --> AttackType
+
+' AttackProvider pulls from AttackDatabase and builds Attack objects
+class AttackProvider {
+    -database: AttackDatabase
+    -attackDictionary: Dictionary<AttackType, Attack>
+    +InitFromDatabase(): void
+    +CanUseSpecialAttack(currentEnergy: int): bool
+    +GetAttack(type: AttackType): Attack
+}
+
+AttackProvider --> Attack : provides
+AttackProvider --> AttackDatabase
+
+' Enum representing attack types
+enum AttackType {
+    NORMAL
+    SPECIAL
+    FIREBALL
+    ICE_BLAST
+    LIGHTNING
+}
+
+' ScriptableObject for attack configuration
+class AttackData {
+    +attackName: string
+    +damage: int
+    +energyCost: int
+    +animation: AnimationClip
+    +effect: GameObject
+}
+
+AttackData <.. Attack : uses
+
+' AttackHandler coordinates fixed and dynamic attacks
+class AttackHandler {
+    -normalAttack: Attack
+    -currentSpecialAttack: Attack
+    -provider: AttackProvider
+    +PerformNormalAttack(): void
+    +PerformSpecialAttack(currentEnergy: int): void
+    +SetSpecialAttack(type: AttackType): void
+}
+
+AttackHandler --> AttackProvider
+AttackHandler --> Attack : normalAttack
+AttackHandler --> Attack : currentSpecialAttack
+@enduml
