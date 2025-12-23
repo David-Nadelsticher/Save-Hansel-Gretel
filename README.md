@@ -113,6 +113,6 @@ All enemies — including the witch — are crafted from lollipop (candy on a st
 
 ## External Links
 
-- **Code review video:**  https://drive.google.com/file/d/1kUWQTMkQcAudGu0Y7ZgkOTIEyuJiXguC/view?usp=drive_link
 - **Gameplay video:** https://youtu.be/q4Rmlgxz-NY
 - **Play Game here:** https://davidnadel.itch.io/save-hansel-gretel
+
