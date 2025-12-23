@@ -13,8 +13,6 @@ A fast‑paced 2D single‑player side‑scroller where you play as the Fire War
 - [Enemy Types](#enemy-types)
 - [Art Style](#art-style)  
 - [Sound Design](#sound-design)  
-- [User Interface](#user-interface)  
-- [Game Feel](#game-feel)
 - [External Links](#external-links)  
 ---
 <img width="1080" height="720" alt="davidBanner2" src="https://github.com/user-attachments/assets/c97b0d56-4fe3-4b46-a811-90c139e7af3c" />
@@ -93,6 +91,7 @@ All enemies are made of **lollipops and candy**. They look sweet, but they are d
 
 - **Gameplay video:** https://youtu.be/q4Rmlgxz-NY
 - **Play Game here:** https://davidnadel.itch.io/save-hansel-gretel
+
 
 
 
