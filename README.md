@@ -23,8 +23,6 @@ A fast‑paced 2D single‑player side‑scroller where you play as the Fire War
 
 Save Hansel & Gretel is a 2D single‑player side‑scroller in which you You are the **Fire Warrior**, a hero armed with a sword and the power of flame. Your mission is to enter the Dark Forest and rescue Hansel and Gretel from the Evil Witch.
 
-Along the way you’ll battle cunning forest creatures, gather magical breads to sustain your life and energy, and confront the witch in a climactic boss fight. Every second counts: will you save the siblings in time, or will darkness prevail?
-
 ---
 ## Core Mechanics
 
@@ -111,5 +109,6 @@ All enemies are made of **lollipops and candy**. They look sweet, but they are d
 
 - **Gameplay video:** https://youtu.be/q4Rmlgxz-NY
 - **Play Game here:** https://davidnadel.itch.io/save-hansel-gretel
+
 
 
