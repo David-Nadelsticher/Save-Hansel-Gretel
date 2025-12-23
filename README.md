@@ -82,22 +82,6 @@ All enemies are made of **lollipops and candy**. They look sweet, but they are d
   - Witch’s sinister laugh  
 
 
----
-## User Interface
-
-- **Clean HUD:**  
-  - prominent timer  
-  - Health bar  
-  - Energy bar  
-- **Minimal Clutter:** Menus and tutorials appear as brief pop‑ups or opening cutscenes.
-
----
-
-## Game Feel
-
-- **Tight Platforming & Combat:** Feels weighty yet agile.  
-- **Camera Behavior:** Intelligent follow with ahead‑of‑player panning to reveal threats.  
-- **Immersion Effects:** Parallax scrolling and subtle camera shakes during boss attacks reinforce urgency—and remind you that time is always against you.
 
 ---
 
@@ -109,6 +93,7 @@ All enemies are made of **lollipops and candy**. They look sweet, but they are d
 
 - **Gameplay video:** https://youtu.be/q4Rmlgxz-NY
 - **Play Game here:** https://davidnadel.itch.io/save-hansel-gretel
+
 
 
 
