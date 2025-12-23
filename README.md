@@ -21,29 +21,27 @@ A fast‑paced 2D single‑player side‑scroller where you play as the Fire War
 
 ## About The Game
 
-Save Hansel & Gretel is a 2D single‑player side‑scroller in which you play as the **Fire Warrior**, a brave hero armed with sword and flame. You plunge into the Dark Forest to rescue Hansel and Gretel from the clutches of an evil witch—and you have only **five minutes** before the children’s fate is sealed.  
+Save Hansel & Gretel is a 2D single‑player side‑scroller in which you You are the **Fire Warrior**, a hero armed with a sword and the power of flame. Your mission is to enter the Dark Forest and rescue Hansel and Gretel from the Evil Witch.
 
 Along the way you’ll battle cunning forest creatures, gather magical breads to sustain your life and energy, and confront the witch in a climactic boss fight. Every second counts: will you save the siblings in time, or will darkness prevail?
 
 ---
 ## Core Mechanics
 
-- **Five‑Minute Timer**  
-  A looming countdown drives every decision—if the clock hits zero, it’s game over.
+* **The 5-Minute Timer**
+    You are racing against the clock! You must complete your mission before the timer hits zero, or it is Game Over.
 
-- **Melee Combat**  
-  - **Normal Sword Strike** for quick, low‑cost attacks.  
-  - **Flaming Blade Special** unleashes higher damage but requires energy or special pickups.
+* **Combat System**
+    * **Normal Strike:** A fast sword attack. Use this for most enemies.
+    * **Flaming Blade:** A powerful fire attack that deals extra damage but uses up your **Energy**.
 
-- **Health & Energy**  
-  Touching enemies or traps drains health. Collect breads to restore life or recharge special‑attack energy.
+* **Health & Energy**
+    * **Health:** You lose health when enemies or traps touch you. If it hits zero, you lose.
+    * **Magical Breads:** Collect these items to heal your health and recharge your energy for special attacks.
 
-- **Boss Encounter**  
-  Face the witch in her cauldron chamber; only by depleting her multiple phases can you free Hansel and Gretel.
-
-- **Win/Loss Conditions**  
-  - **Win:** Defeat the witch and reach the children before time or health runs out.  
-  - **Lose:** Time or health depletes to zero.
+* **Winning & Losing**
+    * **Win:** Defeat the Witch Boss and reach the children while you still have time and health.
+    * **Lose:** You run out of Health or the 5-minute Timer runs out.
 
 ---
 
@@ -56,30 +54,28 @@ Along the way you’ll battle cunning forest creatures, gather magical breads to
 ---
 ## Enemy Types
 
-All enemies — including the witch — are crafted from lollipop (candy on a stick), giving them a whimsical yet unsettling appearance.
+All enemies are made of **lollipops and candy**. They look sweet, but they are dangerous monsters.
 
-- **Zombie Predator**  
-  A lumbering, sugar-coated undead creature that tries to grab and incapacitate the Fire Warrior. Its slow but relentless pursuit forces you to stay on the move.
+* **Zombie Predator**
+    A slow, sugar-coated monster that tries to grab you. Keep moving to avoid getting caught.
 
-- **Chocolate Rifle Trooper**  
-  A candy-stick soldier armed with a chocolate rifle. Shoots medium‑damage chocolate rounds from a distance. Requires multiple hits to defeat.
+* **Chocolate Rifle Trooper**
+    A soldier that shoots chocolate bullets from far away. You will need to hit them multiple times to defeat them.
 
-- **Chocolate Shotgun Brute**  
-  A sturdy lollipop fiend wielding a chocolate shotgun. Deals heavy close‑range damage—but falls in one well‑placed hit.
+* **Chocolate Shotgun Brute**
+    A dangerous enemy with a powerful shotgun. They deal heavy damage up close, but they are weak—one good hit will destroy them.
 
-- **Witch Boss**  
-  The ultimate lollipop menace, with multiple attack phases from her bubbling cauldron. Conquering her frees Hansel & Gretel.
+* **The Witch (Boss)**
+    The final enemy. She attacks from her bubbling cauldron in different stages. You must defeat her to save Hansel and Gretel.
 
 ---
 
-
 ## Art Style
 
-- **Mood:** Dark fairy‑tale atmosphere with playful flair.  
-- **Sprites:** Bold, high‑contrast characters and environments with strong silhouettes.  
-- **Backgrounds:** Multi‑layered parallax scrolling for depth.  
-- **Lighting:** Dynamic lighting to accentuate the hero’s fiery blade and the witch’s cauldron glow.
-
+* **Mood:** A dark fairy-tale world with a playful, candy twist.
+* **Visuals:** Bold, bright characters that stand out clearly against the dark background.
+* **Depth:** The background moves in layers to make the forest look deep and 3D.
+* **Lighting:** Glowing lights from your fire sword and the Witch’s cauldron light up the darkness.
 ---
 
 ## Sound Design
@@ -115,4 +111,5 @@ All enemies — including the witch — are crafted from lollipop (candy on a st
 
 - **Gameplay video:** https://youtu.be/q4Rmlgxz-NY
 - **Play Game here:** https://davidnadel.itch.io/save-hansel-gretel
+
 
